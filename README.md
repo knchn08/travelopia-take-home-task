@@ -17,7 +17,7 @@
 ## Testing both options
 1. To test the image using &lt;img&gt; option view the live website.
 2. To test the image using  &lt;picture&gt; option do as follows:
-3. 1. Uncomment the following segment of code in the file.
+2. 1. Uncomment the following segment of code in the file.
   ```
         <!-- <picture>
             <source srcset="assets\testimg_xl.jpeg" media="all and (min-width: 1200px)" type="image/jpeg" width="1600" height="1200" class="">
@@ -28,8 +28,8 @@
             <img src="assets\testimg_sm.jpeg" alt="Homepage Img">
         </picture>  -->
   ```
-  3. 2.  Comment the following segment of code in the file.
+  2. 2.  Comment the following segment of code in the file.
   ```
         <img src="assets\testimg.jpeg" alt="img">
   ```
-   3. 3.  Save the file and view the refreshed html page.
+   2. 3.  Save the file and view the refreshed html page.
