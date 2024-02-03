@@ -28,8 +28,8 @@
             <img src="assets\testimg_sm.jpeg" alt="Homepage Img">
         </picture>  -->
   ```
-  2.  Comment the following segment of code in the file.
+  3. 2.  Comment the following segment of code in the file.
   ```
         <img src="assets\testimg.jpeg" alt="img">
   ```
-   3.  Save the file and view the refreshed html page.
+   3. 3.  Save the file and view the refreshed html page.
