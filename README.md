@@ -10,7 +10,7 @@
 3. assets folder - containing images used
 
 ## Discussion
-There were two possible ways in which I have inserted the image. One is by using the normal <img> tag and other by using <picture>. 
+There were two possible ways in which I have inserted the image. One is by using the normal &lt;img&gt; tag and other by using &lt;picture&gt;. 
 Pros of <img> observed here include that the image seems to cover the entire whitespace in the various devices it checked for while Cons observed are the skewing of image due to it remaining in its original dimensions when tried over various devices
 Pros of <picture> observed are that it shows better resolution of the source image for the conditions handled whereas Cons observed are that it leaves whitespaces for device dimensions that are not covered.
 
@@ -28,8 +28,8 @@ Pros of <picture> observed are that it shows better resolution of the source ima
             <img src="assets\testimg_sm.jpeg" alt="Homepage Img">
         </picture>  -->
   ```
-   2.  Comment the following segment of code in the file.
+3. 2.  Comment the following segment of code in the file.
   ```
         <img src="assets\testimg.jpeg" alt="img">
   ```
-   4.  Save the file and view the refreshed html page.
+3. 3.  Save the file and view the refreshed html page.
