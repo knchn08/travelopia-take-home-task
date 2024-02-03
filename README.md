@@ -10,13 +10,13 @@
 3. assets folder - containing images used
 
 ## Discussion
-There were two possible ways in which I have inserted the image. One is by using the normal &lt;img&gt; tag and other by using &lt;picture&gt;. 
-Pros of <img> observed here include that the image seems to cover the entire whitespace in the various devices it checked for while Cons observed are the skewing of image due to it remaining in its original dimensions when tried over various devices
-Pros of <picture> observed are that it shows better resolution of the source image for the conditions handled whereas Cons observed are that it leaves whitespaces for device dimensions that are not covered.
+1. There were two possible ways in which I have inserted the image. One is by using the normal &lt;img&gt; tag and other by using &lt;picture&gt;.
+2. Pros of &lt;img&gt; observed here include that the image seems to cover the entire whitespace in the various devices it checked for while Cons observed are the skewing of image due to it remaining in its original dimensions when tried over various devices
+3. Pros of &lt;picture&gt; observed are that it shows better resolution of the source image for the conditions handled whereas Cons observed are that it leaves whitespaces for device dimensions that are not covered.
 
 ## Testing both options
-1. To test the image using <img> option view the live website.
-2. To test the image using <picture> option do as follows:
+1. To test the image using &lt;img&gt; option view the live website.
+2. To test the image using  &lt;picture&gt; option do as follows:
 3. 1. Uncomment the following segment of code in the file.
   ```
         <!-- <picture>
