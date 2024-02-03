@@ -5,7 +5,7 @@
 3. Javascript
 
 ## Contents
-1. live website [link](https://knchn08.github.io/travelopia-take-home-task/index.html)
+1. live website [link](https://knchn08.github.io/travelopia-take-home-task)
 2. test.html - the main file containing website
 3. assets folder - containing images used
 
