@@ -25,7 +25,7 @@ The page was tested on the various dimensions provided under edge inspect and th
 
 ## How to test both options
 1. To test the image using &lt;picture&gt; option view the live website.
-2. To test the image using  &lt;img&gt;, firt clone the repository to your system.
+2. To test the image using  &lt;img&gt;, first clone the repository to your system.
 3. Then carry out the following changes in the index.html file: i. Uncomment the following segment of code in the file.
   ```
         <!-- <img src="assets\testimg.jpeg" alt="img">-->
